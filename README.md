@@ -18,7 +18,6 @@ SD card reader onboard
 *** The Arduino Nano is not included
 
 ![enter image description here]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_top1.jpg)
-![enter image description here]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_top1.jpg)
 ![enter image description here]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_bottom1.jpg)
 ![enter image description here]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_bottom2.jpg)
 
