@@ -9,7 +9,7 @@
 - SMA socket for external sub-GHz antenna for RFM 69 radio transceiver
 - 5v to 3.3v level convertor onboard (for radio and flash)
 - Secure authentication - Atmel ATSHA204A Crypto Authentication Chip
-- External JDEC EPROM
+- External JDEC EPROM for OTA\FOTA
 - SD card reader onboard
 
 
