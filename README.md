@@ -13,6 +13,20 @@
 - SD card reader onboard
 
 
+**CS and other Pins  connected to Arduino Nano:** 
+
+
+Arduino Pins|	Description
+------------|--------------
+A0 |	Connected to SD card reader CS
+A3 |	Connected to ATSHA204A - Crypto Authentication chip
+D8 |	Connected to CS FLASH chip (OTA) 
+D9 |	Connected to RFM 69 Reset pin 
+D10 |	Connected to RFM 69 CS 
+
+**Arduino IDE Settings**
+
+
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_top2.jpg?raw=true)
 
 *** The Arduino Nano is not included
