@@ -24,8 +24,6 @@ D8 |	Connected to CS FLASH chip (OTA)
 D9 |	Connected to RFM 69 Reset pin 
 D10 |	Connected to RFM 69 CS 
 
-**Arduino IDE Settings**
-
 
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_top2.jpg?raw=true)
 
