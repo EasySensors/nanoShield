@@ -34,6 +34,7 @@ D10 |	Connected to RFM 69 CS
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_top1.jpg?raw=true)
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_bottom1.jpg?raw=true)
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_bottom2.jpg?raw=true)
+![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_bottomNRF.jpg?raw=true)
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/schem.jpg?raw=true)
 
 
