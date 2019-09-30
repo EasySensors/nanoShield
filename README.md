@@ -23,7 +23,9 @@ A3 |	Connected to ATSHA204A - Crypto Authentication chip
 D8 |	Connected to CS FLASH chip (OTA) 
 D9 |	Connected to RFM 69 Reset pin 
 D10 |	Connected to RFM 69 CS 
-
+D2 | RFM DIO0 interrupt
+D11, D12, D13 | SPI interface
+A1, A2, A4, A5, D3, D4, D5, D6, D7 | Free available pins  
 
 ![Arduino Nano RFM sheild]( https://github.com/EasySensors/nanoShield/blob/master/nano_rf_shiels_top2.jpg?raw=true)
 
